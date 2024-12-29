@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeFirstASPcore6.props" />
+</Project>

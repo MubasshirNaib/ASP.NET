@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|d:\\new folder (2)\\asp.net basic\\mvc\\codefirstaspcore6\u0026crud\\migrations\\20241129101301_apidm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D02D3-AC9B-49F6-A771-782265924232}|CodeFirstASPcore6.csproj|solutionrelative:migrations\\20241129101301_apidm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:41:15.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:14:36.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:14:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T05:13:22.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:01:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T20:01:12.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T20:01:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241129101301_ApiDM.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Migrations\\20241129101301_ApiDM.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241129101301_ApiDM.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\MVC\\CodeFirstASPcore6\u0026CRUD\\Migrations\\20241129101301_ApiDM.cs",
+              "RelativeToolTip": "Migrations\\20241129101301_ApiDM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:13:01.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

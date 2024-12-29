@@ -1,0 +1,272 @@
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\19b1\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DeLL\Desktop\19b1\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\SHIKHON\Desktop\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Scrutor.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\SHIKHON\Desktop\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\appsettings.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\WebApplication2.exe
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\WebApplication2.deps.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\WebApplication2.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\WebApplication2.pdb
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Humanizer.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Scrutor.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.CodeDom.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebAppli.0DB3FC1A.Up2Date
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\refint\WebApplication2.dll
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.pdb
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+D:\New folder (2)\ASP.NET Basic\CRUDAPI&Authentication\CRUDAPI&Authentication\obj\Debug\net6.0\ref\WebApplication2.dll

@@ -1,0 +1,6 @@
+@RoleBasedAPI_HostAddress = http://localhost:5041
+
+GET {{RoleBasedAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

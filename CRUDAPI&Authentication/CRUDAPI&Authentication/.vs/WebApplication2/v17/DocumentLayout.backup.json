@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\dataacesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:dataacesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\models\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:models\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\migrations\\20241129103206_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:migrations\\20241129103206_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|d:\\new folder (2)\\asp.net basic\\crudapi\u0026authentication\\crudapi\u0026authentication\\migrations\\20241213093331_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB56A6-8334-4B7C-AB08-B371679D7BB1}|WebApplication2.csproj|solutionrelative:migrations\\20241213093331_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:34:32.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogInController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "Controllers\\LogInController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:55:53.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\DataAcessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\AppDbContext.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\DataAcessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "DataAcessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:41:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T09:36:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:35:15.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:48:50.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewClass.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\NewClass.cs",
+              "RelativeDocumentMoniker": "Models\\NewClass.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\NewClass.cs",
+              "RelativeToolTip": "Models\\NewClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:24:13.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:33:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:28:52.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:58:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241213093331_user.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\20241213093331_user.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241213093331_user.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\20241213093331_user.cs",
+              "RelativeToolTip": "Migrations\\20241213093331_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:33:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241129103206_test.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\20241129103206_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241129103206_test.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Migrations\\20241129103206_test.cs",
+              "RelativeToolTip": "Migrations\\20241129103206_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:32:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T09:32:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\CRUDAPI\u0026Authentication\\CRUDAPI\u0026Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:25:14.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-29T09:22:50.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

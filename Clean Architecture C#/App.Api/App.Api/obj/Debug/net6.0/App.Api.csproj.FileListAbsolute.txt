@@ -1,0 +1,8 @@
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.csproj.AssemblyReference.cache
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.AssemblyInfoInputs.cache
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.AssemblyInfo.cs
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\Clean Architecture C#\App.Api\App.Api\obj\Debug\net6.0\App.Api.sourcelink.json
