@@ -1,0 +1,551 @@
+{"@t":"2024-12-31T05:43:55.2877268Z","@mt":"Logging is working fine.","ThreadId":1,"ProcessId":23588,"EnvironmentName":"Development","MachineName":"DESKTOP-U1SGFIP"}
+{"@t":"2024-12-31T05:45:09.3227739Z","@mt":"GetEmployees endpoint called by user: {User}","@tr":"9277895d22cdba7c0b75da0b64cc1da6","@sp":"8edee286e42add10","User":"Mubasshir","SourceContext":"EmpTaskAPI.Controllers.EmployeeController","ActionId":"c890cf00-b1df-4729-b319-cb24dc2a4d4a","ActionName":"EmpTaskAPI.Controllers.EmployeeController.GetEmployees (EmpTaskAPI)","RequestId":"0HN99BOGOF5EU:00000001","RequestPath":"/api/Employee","ConnectionId":"0HN99BOGOF5EU","ThreadId":23,"ProcessId":23588,"EnvironmentName":"Development","MachineName":"DESKTOP-U1SGFIP"}
+{"@t":"2024-12-31T05:45:09.3633807Z","@mt":"Successfully retrieved {EmployeeCount} employees from the database.","@tr":"9277895d22cdba7c0b75da0b64cc1da6","@sp":"8edee286e42add10","EmployeeCount":4,"SourceContext":"EmpTaskAPI.Controllers.EmployeeController","ActionId":"c890cf00-b1df-4729-b319-cb24dc2a4d4a","ActionName":"EmpTaskAPI.Controllers.EmployeeController.GetEmployees (EmpTaskAPI)","RequestId":"0HN99BOGOF5EU:00000001","RequestPath":"/api/Employee","ConnectionId":"0HN99BOGOF5EU","ThreadId":4,"ProcessId":23588,"EnvironmentName":"Development","MachineName":"DESKTOP-U1SGFIP"}
+{"@t":"2024-12-31T05:45:29.4688234Z","@mt":"GetEmployeeById endpoint called by user: {User}, requesting employeeId: {RequestedEmployeeId}","@tr":"6023e61b3bf14f7813cc67bcbf6544dc","@sp":"4bd03ad14b915ce1","User":"Mubasshir","RequestedEmployeeId":6,"SourceContext":"EmpTaskAPI.Controllers.EmployeeController","ActionId":"0173785f-e6a6-4254-a7a1-7319cbd2ec88","ActionName":"EmpTaskAPI.Controllers.EmployeeController.GetEmployeeById (EmpTaskAPI)","RequestId":"0HN99BOGOF5F0:00000001","RequestPath":"/api/Employee/6","ConnectionId":"0HN99BOGOF5F0","ThreadId":4,"ProcessId":23588,"EnvironmentName":"Development","MachineName":"DESKTOP-U1SGFIP"}
+{"@t":"2024-12-31T05:45:29.6810665Z","@mt":"Successfully retrieved employee with Id: {EmployeeId}.","@tr":"6023e61b3bf14f7813cc67bcbf6544dc","@sp":"4bd03ad14b915ce1","EmployeeId":6,"SourceContext":"EmpTaskAPI.Controllers.EmployeeController","ActionId":"0173785f-e6a6-4254-a7a1-7319cbd2ec88","ActionName":"EmpTaskAPI.Controllers.EmployeeController.GetEmployeeById (EmpTaskAPI)","RequestId":"0HN99BOGOF5F0:00000001","RequestPath":"/api/Employee/6","ConnectionId":"0HN99BOGOF5F0","ThreadId":4,"ProcessId":23588,"EnvironmentName":"Development","MachineName":"DESKTOP-U1SGFIP"}
+2024-12-31 11:47:03.084 +06:00 [INF] Logging is working fine.
+2024-12-31 11:48:09.339 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 11:48:09.380 +06:00 [INF] Successfully retrieved 4 employees from the database.
+2024-12-31 11:48:18.910 +06:00 [INF] GetEmployeeById endpoint called by user: Mubasshir, requesting employeeId: 6
+2024-12-31 11:48:19.064 +06:00 [INF] Successfully retrieved employee with Id: 6.
+2024-12-31 12:01:36.449 +06:00 [INF] Logging is working fine.
+2024-12-31 12:02:59.933 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 12:03:00.001 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 12:03:18.560 +06:00 [INF] GetProjectById endpoint called by user: Mubasshir for employeeId: 6.
+2024-12-31 12:03:19.035 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Object.GetType()
+   at System.Linq.Expressions.Interpreter.FuncCallInstruction`2.Run(InterpretedFrame frame)
+   at System.Linq.Expressions.Interpreter.Interpreter.Run(InterpretedFrame frame)
+   at System.Linq.Expressions.Interpreter.LightLambda.Run(Object[] arguments)
+   at System.Dynamic.Utils.DelegateHelpers.FuncThunk[TReturn](Func`2 handler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, LambdaExpression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, Expression`1 predicate, CancellationToken cancellationToken)
+   at EmpTaskAPI.Controllers.ProjectController.GetProjectById(Int32 employeeId) in D:\New folder (2)\Attachment_vivasoft\Employee_Management_System\BackEnd\EmpTaskAPI\Controllers\ProjectController.cs:line 51
+   at lambda_method98(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-12-31 12:13:12.268 +06:00 [INF] Logging is working fine.
+2024-12-31 12:14:58.733 +06:00 [INF] GetProjectById endpoint called by user: Mubasshir for employeeId: 6.
+2024-12-31 12:14:58.866 +06:00 [INF] Successfully retrieved project for employeeId: 6.
+2024-12-31 12:28:34.062 +06:00 [INF] Logging is working fine.
+2024-12-31 12:30:21.486 +06:00 [INF] Fetching all tasks
+2024-12-31 12:30:21.661 +06:00 [INF] Fetched 1 tasks
+2024-12-31 12:30:36.248 +06:00 [INF] Fetching task for employee 6
+2024-12-31 12:30:36.307 +06:00 [INF] Task found for employee 6: 1
+2024-12-31 12:43:41.953 +06:00 [INF] Logging is working fine.
+2024-12-31 12:44:52.750 +06:00 [INF] Fetching all assigned tasks
+2024-12-31 12:44:52.822 +06:00 [INF] Fetched 1 assigned tasks
+2024-12-31 12:45:06.608 +06:00 [INF] Fetching task assignment for employee 6
+2024-12-31 12:45:06.694 +06:00 [INF] Task assignment found for employee 6: 1
+<<<<<<< HEAD
+2024-12-31 13:37:53.960 +06:00 [INF] Logging is working fine.
+2024-12-31 13:39:37.305 +06:00 [INF] GetEmployees endpoint called by user: NewEmployee
+2024-12-31 13:39:37.402 +06:00 [INF] Successfully retrieved 6 employees from the database.
+2024-12-31 13:40:02.996 +06:00 [INF] GetEmployeeById endpoint called by user: NewEmployee, requesting employeeId: 5
+2024-12-31 13:40:03.234 +06:00 [INF] Successfully retrieved employee with Id: 5.
+2024-12-31 13:41:37.396 +06:00 [INF] UpdateEmployee endpoint called by user: NewEmployee to update employee with Id: 5
+2024-12-31 13:41:37.443 +06:00 [INF] Successfully updated employee with Id: 5.
+2024-12-31 13:41:59.267 +06:00 [INF] UpdateEmployee endpoint called by user: NewEmployee to update employee with Id: 5
+2024-12-31 13:41:59.297 +06:00 [INF] Successfully updated employee with Id: 5.
+2024-12-31 13:46:31.696 +06:00 [INF] Logging is working fine.
+2024-12-31 13:48:39.926 +06:00 [INF] GetEmployees endpoint called by user: NewEmployee
+2024-12-31 13:48:40.013 +06:00 [INF] Successfully retrieved 6 employees from the database.
+2024-12-31 14:15:38.702 +06:00 [INF] Logging is working fine.
+2024-12-31 14:16:02.980 +06:00 [INF] Logging is working fine.
+2024-12-31 14:16:06.057 +06:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Employees_Email] ON [Employees] ([Email]);
+2024-12-31 14:17:04.106 +06:00 [INF] Logging is working fine.
+2024-12-31 15:02:00.983 +06:00 [INF] Logging is working fine.
+2024-12-31 15:02:28.504 +06:00 [INF] Logging is working fine.
+2024-12-31 15:13:55.471 +06:00 [INF] Logging is working fine.
+2024-12-31 15:21:36.964 +06:00 [INF] Logging is working fine.
+2024-12-31 15:23:43.393 +06:00 [INF] GetEmployees endpoint called by user: NewEmployee
+2024-12-31 15:23:43.463 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:24:17.534 +06:00 [INF] Logging is working fine.
+2024-12-31 15:26:05.676 +06:00 [INF] Logging is working fine.
+2024-12-31 15:26:15.645 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:26:20.104 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:26:20.195 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:26:20.219 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:26:52.859 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:26:53.020 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:27:40.531 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:27:40.592 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:30:46.910 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:30:46.930 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:30:46.963 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:30:46.978 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:31:59.350 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:31:59.374 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:31:59.408 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:31:59.415 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:32:21.947 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:32:21.955 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:32:21.970 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:32:21.978 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:34:48.175 +06:00 [INF] Fetching all assigned tasks
+2024-12-31 15:34:48.219 +06:00 [INF] Fetched 2 assigned tasks
+2024-12-31 15:35:59.532 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:35:59.549 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:35:59.599 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:35:59.608 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:37:00.199 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:37:00.223 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:37:00.271 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:37:00.280 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:37:39.906 +06:00 [INF] Logging is working fine.
+2024-12-31 15:37:45.946 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:37:51.167 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:37:51.314 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:37:51.341 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:37:52.854 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:37:53.043 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:37:53.115 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:37:53.121 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:37:54.322 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:37:54.328 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:39:23.064 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:39:23.099 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:39:23.109 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:39:23.115 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:40:05.465 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:40:05.485 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:40:05.510 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:40:05.516 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:43:48.507 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:43:48.520 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:43:48.563 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:43:48.569 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:44:14.817 +06:00 [INF] Logging is working fine.
+2024-12-31 15:44:24.034 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:44:24.029 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:08.952 +06:00 [INF] Logging is working fine.
+2024-12-31 15:45:25.200 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:28.128 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:29.866 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:45:29.866 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:45:30.071 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:30.240 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:45:49.389 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:49.409 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:45:56.393 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:45:56.406 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:51:25.947 +06:00 [INF] Logging is working fine.
+2024-12-31 15:53:27.741 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:53:35.980 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:53:36.111 +06:00 [INF] GetProjects endpoint called.
+2024-12-31 15:53:36.203 +06:00 [INF] Successfully retrieved all projects.
+2024-12-31 15:53:50.085 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:53:50.363 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:53:50.403 +06:00 [INF] GetEmployees endpoint called by user: null
+2024-12-31 15:53:50.412 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:57:33.429 +06:00 [INF] Logging is working fine.
+=======
+2024-12-31 13:02:16.073 +06:00 [INF] Logging is working fine.
+2024-12-31 14:05:34.538 +06:00 [INF] Logging is working fine.
+2024-12-31 14:19:32.306 +06:00 [INF] Logging is working fine.
+2024-12-31 14:20:13.709 +06:00 [ERR] Failed executing DbCommand (303ms) [Parameters=[@__emp_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeId], [e].[Email], [e].[Name], [e].[Password], [e].[RefreshToken], [e].[RefreshTokenExpiry], [e].[Role], [e].[Salt], [e].[Stack]
+FROM [Employees] AS [e]
+WHERE [e].[Email] = @__emp_Email_0
+2024-12-31 14:20:13.865 +06:00 [ERR] An exception occurred while iterating over the results of a query for context type 'EmpTaskAPI.DataAccessLayer.AppDBContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:c38cebf4-9862-4d08-82b8-a2a8f3d11fd8
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:c38cebf4-9862-4d08-82b8-a2a8f3d11fd8
+Error Number:207,State:1,Class:16
+2024-12-31 14:20:14.104 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at EmpTaskAPI.Controllers.LoginController.GetToken(UserLogin emp) in D:\New folder (2)\Attachment_vivasoft\Employee_Management_System\BackEnd\EmpTaskAPI\Controllers\LoginController.cs:line 32
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:c38cebf4-9862-4d08-82b8-a2a8f3d11fd8
+Error Number:207,State:1,Class:16
+2024-12-31 14:21:49.276 +06:00 [INF] Logging is working fine.
+2024-12-31 14:22:29.862 +06:00 [ERR] Failed executing DbCommand (187ms) [Parameters=[@__emp_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeId], [e].[Email], [e].[Name], [e].[Password], [e].[RefreshToken], [e].[RefreshTokenExpiry], [e].[Role], [e].[Salt], [e].[Stack]
+FROM [Employees] AS [e]
+WHERE [e].[Email] = @__emp_Email_0
+2024-12-31 14:22:30.027 +06:00 [ERR] An exception occurred while iterating over the results of a query for context type 'EmpTaskAPI.DataAccessLayer.AppDBContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:11bfc3e2-dcaf-40d5-ad67-289aa79e60d9
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:11bfc3e2-dcaf-40d5-ad67-289aa79e60d9
+Error Number:207,State:1,Class:16
+2024-12-31 14:22:30.252 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RefreshToken'.
+Invalid column name 'RefreshTokenExpiry'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at EmpTaskAPI.Controllers.LoginController.GetToken(Employee emp) in D:\New folder (2)\Attachment_vivasoft\Employee_Management_System\BackEnd\EmpTaskAPI\Controllers\LoginController.cs:line 32
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:11bfc3e2-dcaf-40d5-ad67-289aa79e60d9
+Error Number:207,State:1,Class:16
+2024-12-31 14:24:59.174 +06:00 [INF] Logging is working fine.
+2024-12-31 14:25:18.728 +06:00 [INF] Logging is working fine.
+2024-12-31 14:25:36.531 +06:00 [INF] Logging is working fine.
+2024-12-31 14:31:24.436 +06:00 [INF] Logging is working fine.
+2024-12-31 14:46:08.731 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 14:46:08.781 +06:00 [INF] Successfully retrieved 4 employees from the database.
+2024-12-31 15:04:26.495 +06:00 [INF] Logging is working fine.
+2024-12-31 15:05:38.922 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 15:05:39.001 +06:00 [INF] Successfully retrieved 4 employees from the database.
+2024-12-31 15:34:19.951 +06:00 [INF] Logging is working fine.
+2024-12-31 15:37:30.892 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 15:37:30.985 +06:00 [INF] Successfully retrieved 4 employees from the database.
+2024-12-31 15:38:21.047 +06:00 [INF] PostEmployee endpoint called by user: Mubasshir
+2024-12-31 15:38:21.472 +06:00 [INF] Employee with Id: 10 added successfully.
+2024-12-31 15:38:28.168 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 15:38:28.181 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 15:46:35.188 +06:00 [INF] Logging is working fine.
+2024-12-31 15:47:55.831 +06:00 [INF] GetEmployeeById endpoint called by user: Mubasshir, requesting employeeId: 6
+2024-12-31 15:47:55.950 +06:00 [INF] Successfully retrieved employee with Id: 6.
+2024-12-31 15:58:29.829 +06:00 [INF] Logging is working fine.
+2024-12-31 16:00:11.631 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 16:00:11.728 +06:00 [INF] Successfully retrieved 5 employees from the database.
+2024-12-31 16:02:57.641 +06:00 [INF] UpdateEmployee endpoint called by user: Mubasshir to update employee with Id: 9
+2024-12-31 16:02:57.856 +06:00 [INF] Successfully updated employee with Id: 9.
+2024-12-31 16:03:05.996 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 16:03:06.006 +06:00 [INF] Successfully retrieved 5 employees from the database.
+>>>>>>> d5fbd9c6b196a7bab60615b8cb428653f96e104b
+<<<<<<< HEAD
+2024-12-31 16:19:06.411 +06:00 [INF] Logging is working fine.
+2024-12-31 16:20:57.257 +06:00 [INF] PostEmployee endpoint called by user: NewEmployee
+2024-12-31 16:20:57.988 +06:00 [ERR] An exception occurred in the database while saving changes for context type 'EmpTaskAPI.DataAccessLayer.AppDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (s@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (s@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-31 16:20:58.254 +06:00 [ERR] An error occurred while adding a new employee.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (s@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at EmpTaskAPI.Controllers.EmployeeController.PostEmployee(EmployeePostDTO employeeDTO) in E:\Attachment\BackEnd\EmpTaskAPI\Controllers\EmployeeController.cs:line 165
+2024-12-31 16:21:26.480 +06:00 [INF] PostEmployee endpoint called by user: NewEmployee
+2024-12-31 16:21:26.626 +06:00 [ERR] An exception occurred in the database while saving changes for context type 'EmpTaskAPI.DataAccessLayer.AppDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (sa@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (sa@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-31 16:21:26.763 +06:00 [ERR] An error occurred while adding a new employee.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.Employees' with unique index 'IX_Employees_Email'. The duplicate key value is (sa@gmail.com).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:aac812f3-fda9-469c-9312-f9d09eac79ba
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at EmpTaskAPI.Controllers.EmployeeController.PostEmployee(EmployeePostDTO employeeDTO) in E:\Attachment\BackEnd\EmpTaskAPI\Controllers\EmployeeController.cs:line 165
+2024-12-31 16:21:33.199 +06:00 [INF] PostEmployee endpoint called by user: NewEmployee
+2024-12-31 16:21:33.294 +06:00 [INF] Employee with Id: 13 added successfully.
+2024-12-31 16:21:41.864 +06:00 [INF] GetEmployees endpoint called by user: NewEmployee
+2024-12-31 16:21:41.908 +06:00 [INF] Successfully retrieved 6 employees from the database.
+2024-12-31 16:26:33.415 +06:00 [INF] Logging is working fine.
+2024-12-31 16:27:24.336 +06:00 [INF] Logging is working fine.
+2024-12-31 16:28:59.572 +06:00 [INF] Logging is working fine.
+=======
+2024-12-31 16:16:46.303 +06:00 [INF] Logging is working fine.
+2024-12-31 16:18:47.702 +06:00 [INF] Logging is working fine.
+2024-12-31 16:19:11.868 +06:00 [INF] Logging is working fine.
+2024-12-31 16:19:44.070 +06:00 [INF] Logging is working fine.
+2024-12-31 16:27:24.378 +06:00 [INF] Logging is working fine.
+2024-12-31 16:28:00.170 +06:00 [INF] Login attempt for email: Mubasshir@gmail.com
+2024-12-31 16:28:04.244 +06:00 [INF] Login successful for email: Mubasshir@gmail.com
+2024-12-31 16:29:07.242 +06:00 [INF] GetEmployees endpoint called by user: Mubasshir
+2024-12-31 16:29:07.310 +06:00 [INF] Successfully retrieved 5 employees from the database.
+>>>>>>> f7cae9cf4c3b5b4512ae20ba8207fc7836b93137
+2024-12-31 23:40:47.404 +06:00 [INF] Logging is working fine.
+2024-12-31 23:41:28.211 +06:00 [INF] Logging is working fine.
+2024-12-31 23:44:28.234 +06:00 [INF] Logging is working fine.

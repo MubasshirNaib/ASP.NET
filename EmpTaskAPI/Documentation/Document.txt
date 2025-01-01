@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmpTaskAPI</name>
+    </assembly>
+    <members>
+        <member name="T:EmpTaskAPI.Migrations.createdatabase">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.createdatabase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.createdatabase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.createdatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EmpTaskAPI.Migrations.EmployeeAPI">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.EmployeeAPI.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.EmployeeAPI.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.EmployeeAPI.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EmpTaskAPI.Migrations.hashing">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.hashing.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.hashing.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.hashing.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EmpTaskAPI.Migrations.UpdateDatabase">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UpdateDatabase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UpdateDatabase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UpdateDatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EmpTaskAPI.Migrations.UniqueEmailAdded">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UniqueEmailAdded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UniqueEmailAdded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EmpTaskAPI.Migrations.UniqueEmailAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

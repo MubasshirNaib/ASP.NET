@@ -1,0 +1,52 @@
+# Build folders (can be generated)
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Packages folder
+packages/
+.vs/
+
+# Dependency caches
+*.nuget/
+.nuget/
+
+# Publish output
+publish/
+
+# Runtime-generated files
+appsettings.Development.json
+appsettings.Local.json
+
+# Secret and sensitive configuration
+secrets.json
+.env
+
+# Generated files for Visual Studio
+Generated\
+
+# OS-specific files
+Thumbs.db
+.DS_Store
