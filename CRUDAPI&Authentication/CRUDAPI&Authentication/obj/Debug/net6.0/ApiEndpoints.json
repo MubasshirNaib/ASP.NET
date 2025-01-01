@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApplication2.Controllers.SerilogController",
+    "Method": "Get",
+    "RelativePath": "api/Serilog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplication2.Controllers.StudentController",
     "Method": "GetStudentRecord2",
     "RelativePath": "api/Student",

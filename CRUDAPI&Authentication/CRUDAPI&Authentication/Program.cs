@@ -5,10 +5,37 @@ using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
 using System.Text;
 using WebApplication2.DataAcessLayer;
+using Serilog;
+using Serilog.Events;
+using Serilog.Formatting.Compact;
+using WebApplication2.Middlewares;
+
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Information()
+    .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+    .Enrich.WithThreadId()
+    .Enrich.WithProcessId()
+    .Enrich.WithEnvironmentName()
+    .Enrich.WithMachineName()
+    .WriteTo.Console()
+    .WriteTo.File(new CompactJsonFormatter(),"Log/log.txt",rollingInterval:RollingInterval.Day)
+    .CreateLogger();
+
+Log.Logger.Information("Logging is working fine.");
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Log.Logger = new LoggerConfiguration().
+//    MinimumLevel.Information()
+//    .WriteTo.File("Log/log.txt",rollingInterval: RollingInterval.Minute)
+//    .CreateLogger();
+//builder.Services.AddSerilog();
 // Add services to the container.
+//builder.Logging.AddSerilog();
+builder.Host.UseSerilog();
+
+builder.Services.AddTransient<ExceptionMiddleware>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -62,6 +89,7 @@ app.UseAuthentication();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+app.CongigureExceptionMiddleware();
 
 app.MapControllers();
 
