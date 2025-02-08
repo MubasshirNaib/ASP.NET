@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qC2afbgyYCw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

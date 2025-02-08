@@ -1,41 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\",
+  "WorkspaceRootPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|solutionrelative:app.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.infrastructure\\app.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\app.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|solutionrelative:app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|solutionrelative:app.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F629F297-0293-4625-A1DB-9DFB22526ED0}|App.Application\\App.Application.csproj|d:\\new folder (2)\\clean architecture c#\\app.api\\app.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|solutionrelative:app.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C08301-B687-452A-BEAC-7DE2BA586B9A}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDD2B9-2CBD-4E2F-BA9D-9DEF55BDA4E4}|App.Api\\App.Api.csproj|solutionrelative:app.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D20A2D-94E2-4E4B-BD7E-94C2DF721D32}|App.Core\\App.Core.csproj|solutionrelative:app.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629F297-0293-4625-A1DB-9DFB22526ED0}|App.Application\\App.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\app.api\\app.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F629F297-0293-4625-A1DB-9DFB22526ED0}|App.Application\\App.Application.csproj|solutionrelative:app.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,119 +42,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeEntity.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\Entities\\EmployeeEntity.cs",
-              "RelativeDocumentMoniker": "App.Core\\Entities\\EmployeeEntity.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\Entities\\EmployeeEntity.cs",
-              "RelativeToolTip": "App.Core\\Entities\\EmployeeEntity.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T04:15:59.636Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "App.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "App.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:01:47.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\Data\\AppDBContext.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Infrastructure\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "App.Infrastructure\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Infrastructure\\Data\\AppDBContext.cs",
               "RelativeToolTip": "App.Infrastructure\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T04:25:52.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\App.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "App.Infrastructure\\App.Infrastructure.csproj",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Infrastructure\\App.Infrastructure.csproj",
-              "RelativeToolTip": "App.Infrastructure\\App.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T19:01:33.757Z",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "App.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "App.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:01:47.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.Core.csproj",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\App.Core.csproj",
-              "RelativeDocumentMoniker": "App.Core\\App.Core.csproj",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\App.Core.csproj",
-              "RelativeToolTip": "App.Core\\App.Core.csproj",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "App.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "App.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T19:09:38.423Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T15:07:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "App.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "App.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:01:26.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\Program.cs",
+              "RelativeDocumentMoniker": "App.Api\\Program.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\Program.cs",
+              "RelativeToolTip": "App.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:08:07.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.Api.csproj",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Api\\App.Api.csproj",
-              "RelativeDocumentMoniker": "App.Api\\App.Api.csproj",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Api\\App.Api.csproj",
-              "RelativeToolTip": "App.Api\\App.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T19:04:59.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Api\\DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "App.Api\\DependencyInjection.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Api\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Api\\DependencyInjection.cs",
               "RelativeToolTip": "App.Api\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T19:06:53.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "App.Core\\DependencyInjection.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Core\\DependencyInjection.cs",
-              "RelativeToolTip": "App.Core\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "App.Core\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "App.Core\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:01:26.579Z"
+              "WhenOpened": "2024-12-26T04:15:59.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Application\\DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "App.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\New folder (2)\\Clean Architecture C#\\App.Api\\App.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\App.Api\\App.Application\\DependencyInjection.cs",
               "RelativeToolTip": "App.Application\\DependencyInjection.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAABSwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

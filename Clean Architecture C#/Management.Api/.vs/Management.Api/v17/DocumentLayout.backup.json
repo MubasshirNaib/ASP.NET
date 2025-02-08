@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250208190720_tm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management.Infrastructure\\Migrations\\20250208190720_tm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.api\\management.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\management.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.core\\management.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\management.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.application\\management.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\management.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|c:\\users\\shikhon\\source\\repos\\management.api\\management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250208190720_tm.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250208190720_tm.cs",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\Migrations\\20250208190720_tm.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250208190720_tm.cs",
+              "RelativeToolTip": "Management.Infrastructure\\Migrations\\20250208190720_tm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:07:21.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Management.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "Management.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:39:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Management.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\Management.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
+              "RelativeToolTip": "Management.Infrastructure\\Management.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T18:22:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Management.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:51:06.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Management.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:22:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Management.Core",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+              "RelativeDocumentMoniker": "Management.Core\\Management.Core.csproj",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+              "RelativeToolTip": "Management.Core\\Management.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T18:19:09.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Management.Api",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj",
+              "RelativeDocumentMoniker": "Management.Api\\Management.Api.csproj",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj",
+              "RelativeToolTip": "Management.Api\\Management.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T18:24:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Management.Api\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "Management.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:26:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Management.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Program.cs",
+              "RelativeToolTip": "Management.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:28:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Management.Application",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+              "RelativeDocumentMoniker": "Management.Application\\Management.Application.csproj",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+              "RelativeToolTip": "Management.Application\\Management.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T18:09:50.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Management.Core\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "Management.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:19:39.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Management.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Management.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:10:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

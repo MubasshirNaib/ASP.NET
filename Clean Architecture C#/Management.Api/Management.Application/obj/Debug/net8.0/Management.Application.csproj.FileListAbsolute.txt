@@ -1,0 +1,15 @@
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.deps.json
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.pdb
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\bin\Debug\net8.0\Management.Core.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.csproj.AssemblyReference.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.AssemblyInfoInputs.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.AssemblyInfo.cs
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Manageme.C61BCC4F.Up2Date
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\refint\Management.Application.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.pdb
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\ref\Management.Application.dll

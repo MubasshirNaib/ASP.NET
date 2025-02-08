@@ -14,3 +14,19 @@ D:\New folder (2)\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0
 D:\New folder (2)\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\refint\App.Application.dll
 D:\New folder (2)\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.pdb
 D:\New folder (2)\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\ref\App.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\bin\Debug\net6.0\App.Application.deps.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\bin\Debug\net6.0\App.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\bin\Debug\net6.0\App.Application.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\bin\Debug\net6.0\App.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\bin\Debug\net6.0\App.Core.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.csproj.AssemblyReference.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfoInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.sourcelink.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Appl.090A7001.Up2Date
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\refint\App.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\App.Application.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\App.Api\App.Application\obj\Debug\net6.0\ref\App.Application.dll

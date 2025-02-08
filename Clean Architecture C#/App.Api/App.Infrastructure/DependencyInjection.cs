@@ -1,26 +1,16 @@
-﻿using App.Infrastructure.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 
-namespace App.Infrastructure
+namespace App.Infrastructure.Data
 {
-    public static class DependencyInjection
+    public class AppDBContextFactory : IDesignTimeDbContextFactory<AppDBContext>
     {
-        public static IServiceCollection AddInfrastructureDI(this IServiceCollection services)
+        public AppDBContext CreateDbContext(string[] args)
         {
-            services.AddDbContext<AppDBContext>(options =>
-            {
-                options.UseSqlServer("Server=localhost;Database=AppDB;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=false;");
+            var optionsBuilder = new DbContextOptionsBuilder<AppDBContext>();
+            optionsBuilder.UseSqlServer("Server=localhost;Database=TestAPIDb;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=false");
 
-            });
-
-                
-            return services;
+            return new AppDBContext(optionsBuilder.Options);
         }
     }
 }

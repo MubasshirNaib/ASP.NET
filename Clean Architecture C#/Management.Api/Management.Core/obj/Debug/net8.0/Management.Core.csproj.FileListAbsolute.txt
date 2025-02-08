@@ -1,0 +1,12 @@
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.deps.json
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.csproj.AssemblyReference.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfoInputs.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfo.cs
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.csproj.CoreCompileInputs.cache
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.pdb
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll
