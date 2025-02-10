@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qC2afbgyYCw=",
+  "dgSpecHash": "C6AFTi3/2PE=",
   "success": true,
   "projectFilePath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\SHIKHON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],
   "logs": []

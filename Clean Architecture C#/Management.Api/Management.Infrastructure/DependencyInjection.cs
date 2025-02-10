@@ -1,4 +1,6 @@
-﻿using Management.Infrastructure.Data;
+﻿using Management.Core.Interfaces;
+using Management.Infrastructure.Data;
+using Management.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -17,6 +19,7 @@ namespace Management.Infrastructure
             {
                 options.UseSqlServer("Server=localhost;Database=Management;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=false;");
             } );
+            services.AddScoped<IEmployeeRepository,EmployeeRepository>();
             return services;
         }
     }

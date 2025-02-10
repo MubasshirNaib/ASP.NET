@@ -141,3 +141,5 @@ C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\obj\Debug\net8.0\ref
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\obj\Debug\net8.0\Management.Api.pdb
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\obj\Debug\net8.0\Management.Api.genruntimeconfig.cache
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\obj\Debug\net8.0\ref\Management.Api.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\SHIKHON\source\repos\Management.Api\Management.Api\bin\Debug\net8.0\MediatR.Contracts.dll
