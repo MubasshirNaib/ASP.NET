@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+      "projectUniqueName": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
       "projectName": "Management.Core",
-      "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+      "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
       "packagesPath": "C:\\Users\\SHIKHON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\obj\\",
+      "outputPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

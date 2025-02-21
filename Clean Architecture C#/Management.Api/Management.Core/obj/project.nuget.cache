@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05DuCBUBiwE=",
+  "dgSpecHash": "CKKzcuDlu5M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+  "projectFilePath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHIKHON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],

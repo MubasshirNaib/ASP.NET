@@ -10,3 +10,16 @@ C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Ma
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.pdb
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.deps.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\bin\Debug\net8.0\Management.Core.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.csproj.AssemblyReference.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfoInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.sourcelink.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\Management.Core.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll

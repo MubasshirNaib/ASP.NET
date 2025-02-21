@@ -1,4 +1,5 @@
-﻿using Management.Core.Entities;
+﻿using Management.Core.DTO;
+using Management.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,6 @@ namespace Management.Core.Interfaces
         Task<Employee> AddEmployeeAsync(Employee entity);
         Task<Employee> UpdateEmployeeAsync(Guid employeeId, Employee entity);
         Task<bool> DeleteEmployeeAsync(Guid employeeId);
+        Task<AuthenticationResponse> Authenticate(AuthenticationRequest request);
     }
 }
