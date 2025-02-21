@@ -17,3 +17,23 @@ C:\Users\SHIKHON\source\repos\Management.Api\Management.Infrastructure\obj\Debug
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.pdb
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.genruntimeconfig.cache
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Infrastructure\obj\Debug\net8.0\ref\Management.Infrastructure.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Infrastructure.deps.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Infrastructure.runtimeconfig.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Infrastructure.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Infrastructure.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Application.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\bin\Debug\net8.0\Management.Core.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.AssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.sourcelink.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Manageme.392FD1A4.Up2Date
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\refint\Management.Infrastructure.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\Management.Infrastructure.genruntimeconfig.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Infrastructure\obj\Debug\net8.0\ref\Management.Infrastructure.dll

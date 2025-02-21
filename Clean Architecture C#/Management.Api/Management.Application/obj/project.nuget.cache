@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C6AFTi3/2PE=",
+  "dgSpecHash": "OYLYFLSziyk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+  "projectFilePath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

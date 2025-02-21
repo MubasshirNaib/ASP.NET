@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Management.Core.Entities
 {
+
     public class Employee
     {
         [Key]

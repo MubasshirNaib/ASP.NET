@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj": {}
+    "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj": {
+    "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.csproj",
         "projectName": "Management.Api",
-        "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\Management.Api.csproj",
+        "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.csproj",
         "packagesPath": "C:\\Users\\SHIKHON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Api\\obj\\",
+        "outputPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj": {
-                "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj"
+              "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj": {
+                "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj"
               },
-              "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj"
+              "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj": {
+                "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj"
               }
             }
           }
@@ -57,6 +57,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -66,6 +70,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -91,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj": {
+    "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj",
         "projectName": "Management.Application",
-        "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj",
+        "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj",
         "packagesPath": "C:\\Users\\SHIKHON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\obj\\",
+        "outputPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +128,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj": {
-                "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj"
+              "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj": {
+                "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj"
               }
             }
           }
@@ -170,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj": {
+    "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
         "projectName": "Management.Core",
-        "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\Management.Core.csproj",
+        "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
         "packagesPath": "C:\\Users\\SHIKHON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Core\\obj\\",
+        "outputPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,14 +249,14 @@
         }
       }
     },
-    "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj": {
+    "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
         "projectName": "Management.Infrastructure",
-        "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
+        "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\SHIKHON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\obj\\",
+        "outputPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -270,8 +278,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj": {
-                "projectPath": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Application\\Management.Application.csproj"
+              "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj": {
+                "projectPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj"
               }
             }
           }

@@ -13,3 +13,19 @@ C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\ne
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\refint\Management.Application.dll
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.pdb
 C:\Users\SHIKHON\source\repos\Management.Api\Management.Application\obj\Debug\net8.0\ref\Management.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.deps.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\bin\Debug\net8.0\Management.Application.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\bin\Debug\net8.0\Management.Core.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\bin\Debug\net8.0\Management.Core.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.csproj.AssemblyReference.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.AssemblyInfoInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.AssemblyInfo.cs
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.sourcelink.json
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Manageme.C61BCC4F.Up2Date
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\refint\Management.Application.dll
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\Management.Application.pdb
+D:\New folder (2)\ASP.NET Basic\Clean Architecture C#\Management.Api\Management.Application\obj\Debug\net8.0\ref\Management.Application.dll
