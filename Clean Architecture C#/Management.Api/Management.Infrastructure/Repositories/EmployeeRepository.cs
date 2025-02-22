@@ -32,6 +32,12 @@ namespace Management.Infrastructure.Repositories
         }
         public async Task<Employee> AddEmployeeAsync(Employee entity)
         {
+            bool emailExists = await dbContext.Employees.AnyAsync(e => e.Email == entity.Email);
+
+            if (emailExists)
+            {
+                throw new Exception("Email already in use. Please use a different email.");
+            }
             var salt = PasswordHasher.GenerateSalt();
             var hashedPassword = PasswordHasher.HashPassword(entity.Password, salt);
             entity.EmployeeId=Guid.NewGuid();
@@ -43,6 +49,12 @@ namespace Management.Infrastructure.Repositories
         }
         public async Task<Employee> UpdateEmployeeAsync(Guid employeeId,Employee entity)
         {
+            //bool emailExists = await dbContext.Employees.AnyAsync(e => e.Email == entity.Email);
+
+            //if (emailExists)
+            //{
+            //    throw new Exception("Email already in use. Please use a different email.");
+            //}
             var salt = PasswordHasher.GenerateSalt();
             var hashedPassword = PasswordHasher.HashPassword(entity.Password, salt);
             var employee = await dbContext.Employees.FirstOrDefaultAsync(x => x.EmployeeId == employeeId);
