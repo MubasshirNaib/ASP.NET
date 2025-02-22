@@ -2,6 +2,7 @@
 using Management.Core.Entities;
 using Management.Core.Interfaces;
 using Management.Infrastructure.Data;
+using Management.Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
@@ -31,13 +32,19 @@ namespace Management.Infrastructure.Repositories
         }
         public async Task<Employee> AddEmployeeAsync(Employee entity)
         {
-            entity.EmployeeId=Guid.NewGuid(); 
+            var salt = PasswordHasher.GenerateSalt();
+            var hashedPassword = PasswordHasher.HashPassword(entity.Password, salt);
+            entity.EmployeeId=Guid.NewGuid();
+            entity.Password = hashedPassword;
+            entity.Salt = salt; 
             dbContext.Employees.Add(entity);
             await dbContext.SaveChangesAsync();
             return entity; 
         }
         public async Task<Employee> UpdateEmployeeAsync(Guid employeeId,Employee entity)
         {
+            var salt = PasswordHasher.GenerateSalt();
+            var hashedPassword = PasswordHasher.HashPassword(entity.Password, salt);
             var employee = await dbContext.Employees.FirstOrDefaultAsync(x => x.EmployeeId == employeeId);
             if (employee is not null)
             {
@@ -45,7 +52,8 @@ namespace Management.Infrastructure.Repositories
                 employee.Stack=entity.Stack;
                 employee.Mobile=entity.Mobile;
                 employee.Email=entity.Email;
-                employee.Password=entity.Password;
+                employee.Password=hashedPassword;
+                employee.Salt = salt;
                 employee.JoiningDate=entity.JoiningDate;
                 employee.Image=entity.Image;
 
@@ -70,11 +78,13 @@ namespace Management.Infrastructure.Repositories
         }
         public async Task<AuthenticationResponse> Authenticate(AuthenticationRequest request)
         {
+
             var user = await dbContext.Employees.FirstOrDefaultAsync(x=>x.Email == request.Email);
             if (user == null) {
                 throw new ApplicationException($"user is not found with this Email : {request.Email}");
             }
-            var succeed = await dbContext.Employees.FirstOrDefaultAsync(x => x.Password == request.Password);
+            var password = PasswordHasher.HashPassword(request.Password,user.Salt);
+            var succeed = await dbContext.Employees.FirstOrDefaultAsync(x => x.Password == password);
             if (succeed == null)
             {
                 throw new ApplicationException($"Password isn't correct");
