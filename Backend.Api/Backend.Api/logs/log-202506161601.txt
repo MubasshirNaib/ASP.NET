@@ -1,0 +1,2 @@
+2025-06-16 16:01:56.743 +06:00 [INF] Authenticating user with email n@gmain.com.
+2025-06-16 16:01:59.564 +06:00 [ERR] Authentication failed: User with email n@gmain.com not found.

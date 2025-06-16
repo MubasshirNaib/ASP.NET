@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222102241_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Management.Infrastructure\\Migrations\\20250222102241_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,22 +27,6 @@
       "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -67,12 +35,60 @@
       "RelativeMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|solutionrelative:management.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\dto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\dto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\migrations\\20250222102241_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\migrations\\20250222102241_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|solutionrelative:management.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\management.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25E5B411-E0D6-4488-BA8F-3F33264B75D4}|Management.Core\\Management.Core.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,19 +103,7 @@
       "RelativeMoniker": "D:0:0:{54472043-3BE9-42FF-9FFE-23AEED0D675E}|Management.Infrastructure\\Management.Infrastructure.csproj|solutionrelative:management.infrastructure\\migrations\\20250209135438_fc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250209135316_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B042013-1C58-4822-8BBA-0123F86581B5}|Management.Application\\Management.Application.csproj|solutionrelative:management.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3654CD-6E80-45D1-AD10-9909C3660E5B}|Management.Api\\Management.Api.csproj|d:\\new folder (2)\\asp.net basic\\clean architecture c#\\management.api\\management.api\\management.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -129,7 +133,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -161,33 +165,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250222102241_db3.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
-              "RelativeDocumentMoniker": "Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
-              "RelativeToolTip": "Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Management.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Management.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T10:22:41.96Z",
+              "WhenOpened": "2025-02-21T10:33:34.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Management.Api\\Program.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Program.cs",
+              "RelativeToolTip": "Management.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:28:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Management.Api\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Management.Api\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T09:57:45.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:27:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Commands\\LoginCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "Management.Application\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:04:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Management.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Management.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:51:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Management.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Management.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T08:34:36.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Management.Api\\appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.json",
+              "RelativeToolTip": "Management.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T08:34:45.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Services\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Management.Infrastructure\\Services\\PasswordHasher.cs",
@@ -195,11 +277,113 @@
               "RelativeToolTip": "Management.Infrastructure\\Services\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T09:25:16.445Z"
+              "WhenOpened": "2025-02-22T09:25:16.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "Management.Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "Management.Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:22:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "Management.Core\\DTO\\AuthenticationRequest.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeToolTip": "Management.Core\\DTO\\AuthenticationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:25:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:07:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Queries\\GetAllEmployeesQuery.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "Management.Application\\Queries\\GetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:52:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "Management.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:19:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Management.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Management.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:10:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "Management.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:37:12.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Management.Application\\Commands\\AddEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "Management.Application\\Commands\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:38:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Management.Core\\Entities\\Employee.cs",
@@ -207,37 +391,23 @@
               "RelativeToolTip": "Management.Core\\Entities\\Employee.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T18:39:54.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:39:54.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Management.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "20250222102241_db3.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
+              "RelativeDocumentMoniker": "Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
+              "RelativeToolTip": "Management.Infrastructure\\Migrations\\20250222102241_db3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T06:27:29.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T10:22:41.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "Management.Application\\Commands\\LoginCommand.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\LoginCommand.cs",
-              "RelativeToolTip": "Management.Application\\Commands\\LoginCommand.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:04:36.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Management.Infrastructure\\Data\\AppDbContext.cs",
@@ -245,24 +415,11 @@
               "RelativeToolTip": "Management.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T18:51:06.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:51:06.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Management.Api\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Management.Api\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:33:34.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20250222093650_u1.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250222093650_u1.cs",
               "RelativeDocumentMoniker": "Management.Infrastructure\\Migrations\\20250222093650_u1.cs",
@@ -274,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Management.Infrastructure.csproj",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Management.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Management.Infrastructure\\Management.Infrastructure.csproj",
@@ -286,92 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Management.Core\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Management.Core\\Interfaces\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T06:51:37.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Management.Api\\Program.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Program.cs",
-              "RelativeToolTip": "Management.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T18:28:13.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddEmployeeCommand.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\AddEmployeeCommand.cs",
-              "RelativeDocumentMoniker": "Management.Application\\Commands\\AddEmployeeCommand.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\AddEmployeeCommand.cs",
-              "RelativeToolTip": "Management.Application\\Commands\\AddEmployeeCommand.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:38:12.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthenticationResponse.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationResponse.cs",
-              "RelativeDocumentMoniker": "Management.Core\\DTO\\AuthenticationResponse.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationResponse.cs",
-              "RelativeToolTip": "Management.Core\\DTO\\AuthenticationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:22:44.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateEmployeeCommand.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\UpdateEmployeeCommand.cs",
-              "RelativeDocumentMoniker": "Management.Application\\Commands\\UpdateEmployeeCommand.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Commands\\UpdateEmployeeCommand.cs",
-              "RelativeToolTip": "Management.Application\\Commands\\UpdateEmployeeCommand.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T19:19:26.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Management.Api\\appsettings.Development.json",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.Development.json",
-              "RelativeToolTip": "Management.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T08:34:36.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Management.Api\\appsettings.json",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\appsettings.json",
-              "RelativeToolTip": "Management.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T08:34:45.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Management.Infrastructure\\DependencyInjection.cs",
@@ -383,19 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthenticationRequest.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationRequest.cs",
-              "RelativeDocumentMoniker": "Management.Core\\DTO\\AuthenticationRequest.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DTO\\AuthenticationRequest.cs",
-              "RelativeToolTip": "Management.Core\\DTO\\AuthenticationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:25:08.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Management.Core\\DependencyInjection.cs",
@@ -407,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Management.Core.csproj",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Core\\Management.Core.csproj",
               "RelativeDocumentMoniker": "Management.Core\\Management.Core.csproj",
@@ -419,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "20250209135438_fc.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Infrastructure\\Migrations\\20250209135438_fc.cs",
               "RelativeDocumentMoniker": "Management.Infrastructure\\Migrations\\20250209135438_fc.cs",
@@ -431,31 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetAllEmployeesQuery.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetAllEmployeesQuery.cs",
-              "RelativeDocumentMoniker": "Management.Application\\Queries\\GetAllEmployeesQuery.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetAllEmployeesQuery.cs",
-              "RelativeToolTip": "Management.Application\\Queries\\GetAllEmployeesQuery.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABSwA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:52:35.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetEmployeeByIdQuery.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
-              "RelativeDocumentMoniker": "Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
-              "RelativeToolTip": "Management.Application\\Queries\\GetEmployeeByIdQuery.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABSwBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T19:07:50.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "20250209135316_f.cs",
               "DocumentMoniker": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250209135316_f.cs",
               "ToolTip": "C:\\Users\\SHIKHON\\source\\repos\\Management.Api\\Management.Infrastructure\\Migrations\\20250209135316_f.cs",
@@ -464,19 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Management.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Management.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T18:10:14.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Management.Api.http",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.http",
               "RelativeDocumentMoniker": "Management.Api\\Management.Api.http",
@@ -488,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Management.Api.csproj",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\Management.Api.csproj",
               "RelativeDocumentMoniker": "Management.Api\\Management.Api.csproj",
@@ -500,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Management.Application.csproj",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Application\\Management.Application.csproj",
               "RelativeDocumentMoniker": "Management.Application\\Management.Application.csproj",
@@ -512,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Clean Architecture C#\\Management.Api\\Management.Api\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Management.Api\\DependencyInjection.cs",
