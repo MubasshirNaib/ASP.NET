@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d75wWLsmmvg=",
+  "success": true,
+  "projectFilePath": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Backend.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+2025-06-16 16:56:57.203 +06:00 [INF] Authenticating user with email n@gmail.com.
+2025-06-16 16:56:59.982 +06:00 [INF] Generating JWT token for employee with ID "9930ef0c-54a6-45c7-b0d4-5dcf8a4565de".

@@ -1,0 +1,70 @@
+2025-06-16 16:01:56.743 +06:00 [INF] Authenticating user with email n@gmain.com.
+2025-06-16 16:01:59.564 +06:00 [ERR] Authentication failed: User with email n@gmain.com not found.
+2025-06-16 16:02:00.613 +06:00 [ERR] HTTP POST /api/Login responded 500 in 4820.1103 ms
+System.ApplicationException: User is not found with this Email: n@gmain.com
+   at Backend.Infrastructure.Repositories.EmployeeRepository.Authenticate(AuthenticationRequest request) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Infrastructure\Repositories\EmployeeRepository.cs:line 116
+   at Backend.Application.Commands.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Application\Commands\LoginCommand.cs:line 18
+   at Backend.Api.Controllers.LoginController.Authentication(AuthenticationRequest employee) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Api\Controllers\LoginController.cs:line 16
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-16 16:02:01.588 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ApplicationException: User is not found with this Email: n@gmain.com
+   at Backend.Infrastructure.Repositories.EmployeeRepository.Authenticate(AuthenticationRequest request) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Infrastructure\Repositories\EmployeeRepository.cs:line 116
+   at Backend.Application.Commands.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Application\Commands\LoginCommand.cs:line 18
+   at Backend.Api.Controllers.LoginController.Authentication(AuthenticationRequest employee) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Api\Controllers\LoginController.cs:line 16
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-16 16:03:02.069 +06:00 [INF] Authenticating user with email n@gmail.com.
+2025-06-16 16:03:02.506 +06:00 [INF] Generating JWT token for employee with ID "9930ef0c-54a6-45c7-b0d4-5dcf8a4565de".
+2025-06-16 16:03:02.646 +06:00 [INF] Successfully generated JWT token for employee with ID "9930ef0c-54a6-45c7-b0d4-5dcf8a4565de".
+2025-06-16 16:03:02.718 +06:00 [INF] Successfully authenticated user with email n@gmail.com.
+2025-06-16 16:03:02.737 +06:00 [INF] HTTP POST /api/Login responded 200 in 673.4685 ms
+2025-06-16 16:56:57.203 +06:00 [INF] Authenticating user with email n@gmail.com.
+2025-06-16 16:56:59.982 +06:00 [INF] Generating JWT token for employee with ID "9930ef0c-54a6-45c7-b0d4-5dcf8a4565de".
+2025-06-16 16:57:00.006 +06:00 [INF] Successfully generated JWT token for employee with ID "9930ef0c-54a6-45c7-b0d4-5dcf8a4565de".
+2025-06-16 16:57:00.102 +06:00 [INF] Successfully authenticated user with email n@gmail.com.
+2025-06-16 16:57:00.132 +06:00 [INF] HTTP POST /api/Login responded 200 in 3697.3442 ms
+2025-06-16 16:57:28.369 +06:00 [INF] Retrieving all employees.
+2025-06-16 16:57:28.421 +06:00 [INF] Retrieved 1 employees.
+2025-06-16 16:57:28.440 +06:00 [INF] HTTP GET /api/Employee responded 200 in 98.7641 ms
+2025-06-16 16:57:46.839 +06:00 [INF] Adding new employee with email n@gmail.com.
+2025-06-16 16:57:47.113 +06:00 [ERR] Email n@gmail.com is already in use.
+2025-06-16 16:57:48.895 +06:00 [ERR] An unhandled exception occurred. Request: POST /api/Employee
+Backend.Core.Exceptions.EmailAlreadyExistsException: Email n@gmail.com is already in use.
+   at Backend.Infrastructure.Repositories.EmployeeRepository.AddEmployeeAsync(EmployeeEntity entity) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Infrastructure\Repositories\EmployeeRepository.cs:line 63
+   at Backend.Application.Commands.AddEmployeeCommandHandler.Handle(AddEmployeeCommand request, CancellationToken cancellationToken) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Application\Commands\AddEmployeeCommand.cs:line 18
+   at Backend.Api.Controllers.EmployeeController.AddEmployeeAsync(EmployeeEntity employee) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Api\Controllers\EmployeeController.cs:line 19
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Backend.Api.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in D:\New folder (2)\ASP.NET Basic\Backend.Api\Backend.Api\Middleware\ExceptionMiddleware.cs:line 26
+2025-06-16 16:57:49.075 +06:00 [INF] HTTP POST /api/Employee responded 400 in 2277.5086 ms

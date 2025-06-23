@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\dto\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dto\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\dto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\migrations\\20250616070217_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\migrations\\20250616070217_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\queries\\getallemployeequerey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\queries\\getallemployeequerey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\asp.net basic\\backend.api\\backend.infrastructure\\migrations\\20250615164041_firtdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\migrations\\20250615164041_firtdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\DTO\\ErrorResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\ErrorResponse.cs",
+              "RelativeToolTip": "Backend.Core\\DTO\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:43:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Backend.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:10:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backend.Api",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Backend.Api.csproj",
+              "RelativeDocumentMoniker": "Backend.Api\\Backend.Api.csproj",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Backend.Api.csproj*",
+              "RelativeToolTip": "Backend.Api\\Backend.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T09:21:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:44:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "Backend.Core\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:36:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Backend.Infrastructure",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Backend.Infrastructure.csproj*",
+              "RelativeToolTip": "Backend.Infrastructure\\Backend.Infrastructure.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T10:31:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Backend.Core",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Backend.Core.csproj",
+              "RelativeDocumentMoniker": "Backend.Core\\Backend.Core.csproj",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Backend.Core.csproj*",
+              "RelativeToolTip": "Backend.Core\\Backend.Core.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T07:20:04.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Program.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Program.cs*",
+              "RelativeToolTip": "Backend.Api\\Program.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:34:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Backend.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:36:38.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:40:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:56:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Backend.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T07:27:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:58:50.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:31:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.Api\\appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Api\\appsettings.json",
+              "RelativeToolTip": "Backend.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T07:27:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Commands\\LoginCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "Backend.Application\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:36:05.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\DTO\\AuthenticationRequest.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\AuthenticationRequest.cs",
+              "RelativeToolTip": "Backend.Core\\DTO\\AuthenticationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:21:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "Backend.Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:21:32.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250616070217_db2.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Migrations\\20250616070217_db2.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Migrations\\20250616070217_db2.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Migrations\\20250616070217_db2.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Migrations\\20250616070217_db2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:02:17.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "Backend.Core\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:25:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "Backend.Application\\Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:50:15.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllEmployeeQuerey.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Queries\\GetAllEmployeeQuerey.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Queries\\GetAllEmployeeQuerey.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Queries\\GetAllEmployeeQuerey.cs",
+              "RelativeToolTip": "Backend.Application\\Queries\\GetAllEmployeeQuerey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:49:26.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "Backend.Application\\Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:37:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "Backend.Application\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:35:41.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:04:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Commands\\AddEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "Backend.Application\\Commands\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:47:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:35:02.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250615164041_firtdb.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Migrations\\20250615164041_firtdb.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Migrations\\20250615164041_firtdb.cs",
+              "ToolTip": "D:\\New folder (2)\\ASP.NET Basic\\Backend.Api\\Backend.Infrastructure\\Migrations\\20250615164041_firtdb.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Migrations\\20250615164041_firtdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:40:41.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

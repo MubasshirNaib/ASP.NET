@@ -956,6 +956,7 @@
       },
       "Management.Core/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
         },
         "runtime": {
